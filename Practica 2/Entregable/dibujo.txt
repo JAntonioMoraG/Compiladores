@@ -1,0 +1,36 @@
+/*
+DATOS
+*Mora Guzman Jose Antonio
+*Practica 2 Java para modo grafico
+*Opcion Circulos Lineas y Rectangulos
+*fecha 19-10-2021
+*grupo 3CM17
+*materia: compiladores
+*/
+
+//CASA 
+color 0 ;
+rectangulo 100 100 100 100 ;
+color 0 ;
+rectangulo 50 25 150 139 ;
+color 2 ;
+line 100 100 50 150 ;
+line 50 150 100 200 ;
+
+//Persona
+
+color 0 ;
+circulo 60 100 290 ;
+color 2 ; 
+line 160 315 220 315 ;
+line 217 315 240 330 ;
+line 217 315 240 300 ;
+line 180 295 180 340 ;
+
+
+//carro
+color 0 ;
+rectangulo 30 100 275 175 ;
+rectangulo 30 50 245 200 ;
+circulo 15 305 180 ; 
+circulo 15 305 250 ;
