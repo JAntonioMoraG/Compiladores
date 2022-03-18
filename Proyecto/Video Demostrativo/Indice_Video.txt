@@ -1,0 +1,20 @@
+min 0:00 Presentacion del proyecto
+min 0:08 Opcion de proyecto
+min 00:13 Yo soy Mora guzman Jose antonio
+min 00:23 componentes de la interfaz
+min 01:15 lista de intrucciones basicas
+min 02:02 espirografo 1 (Tema 1)
+min 03:33 espirpgrafo 2	(Tema 2)
+min 04:25 Poligonos 3-10 lados (Tema 3)
+min 05:12 Estrella de david (Tema 4)
+min 05:47 Pentagrama (Tema 5)
+min 06:18 Espiral cuadrada de nivel n (Tema 6)
+min 07:16 Curva de Hilbert (Tema 7)
+min 07:59 Curva de Koch (Tema 8)
+min 09:19 Arbol de n niveles (Tema 9)
+min 10:11 Regla de nivel n (Tema 10)
+min 10:55 Boton limpiar codigo 
+min 11:04 Boton limpiar lienzo 
+min 11:13 ComboBox 
+min 11:25 Boton dibujar 
+min 11:30 Despedida
